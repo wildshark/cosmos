@@ -8,4 +8,7 @@
 
 //load user login
 
+echo date("D-M-YYYY");
+
+
 //load admin login
